@@ -1,0 +1,2 @@
+# zabbix_mysql_monitor_script
+zabbix监控mysql服务器及实例的脚本和配置文件
